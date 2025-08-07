@@ -2,6 +2,7 @@ import { type TranslationKeys } from "../types/translationKeys"
 
 export const translations: Record<"uk-UA" | "en-US", TranslationKeys> = {
 	"uk-UA": {
+		desc_year: "рік",
 		searchBar_lang: "UA",
 		searchBar_poweredBy: "За підтримки",
 		searchBar_placeholder: "Шукати фільми...",
@@ -28,6 +29,7 @@ export const translations: Record<"uk-UA" | "en-US", TranslationKeys> = {
 		yup_min_query: "Замало: мінімум 2 символи",
 	},
 	"en-US": {
+		desc_year: "year",
 		searchBar_lang: "EN",
 		searchBar_poweredBy: "Powered by",
 		searchBar_placeholder: "Search movies...",
