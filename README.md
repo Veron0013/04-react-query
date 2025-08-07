@@ -1,6 +1,10 @@
-# Homework 3
+# Homework 4
 
 additional:
--- close modal on mobile on click "back"
--- additional description in modal
--- 18+ alert
+-- language and translation
+-- scroll to top
+-- pagination
+-- movie rating in list
+-- trending movies separately
+
+-- react-query, formik, yup, pagination
